@@ -3,6 +3,7 @@ import Common
 import Foundation
 
 let lockScreenAppBundleId = "com.apple.loginwindow"
+let securityAgentAppBundleId = "com.apple.SecurityAgent"
 let AEROSPACE_WINDOW_ID = "AEROSPACE_WINDOW_ID" // env var
 let AEROSPACE_WORKSPACE = "AEROSPACE_WORKSPACE" // env var
 

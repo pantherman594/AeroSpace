@@ -19,3 +19,4 @@
 # XCode User settings
 xcuserdata/
 xcshareddata/
+.ruby-version
